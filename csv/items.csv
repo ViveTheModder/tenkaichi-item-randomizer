@@ -1,0 +1,137 @@
+0,0,1,Attack Up 1
+1,0,2,Attack Up 2
+2,0,3,Attack Up 3
+3,1,1,Defense Up 1
+4,1,2,Defense Up 2
+5,1,3,Defense Up 3
+6,2,1,Ki Power Up 1
+7,2,2,Ki Power Up 2
+8,2,3,Ki Power Up 3
+9,3,1,Super Up 1
+10,3,2,Super Up 2
+11,3,3,Super Up 3
+12,0,1,Attack Up 2 & Defense Down 1
+13,1,1,Defense Up 2 & Attack Down 1
+14,2,1,Ki Power Up 2 & Super Down 1
+15,3,1,Super Up 2 & Power Down 1
+16,0,2,Attack Up 3 & Super Down 1
+17,1,1,Defense Up 3 & Attack Down 2
+18,2,2,Ki Power Up 3 & Defense Down 1
+19,3,1,Super Up 3 & Power Down 2
+20,0,1,Attack Up 3 & Defense Down 2
+21,1,2,Defense Up 3 & Ki Power Down 1
+22,2,1,Ki Power Up 3 & Super Down 2
+23,3,2,Super Up 3 & Attack Down 1
+24,-1,-1,blank
+25,-1,-1,blank
+26,-1,-1,blank
+27,-1,-1,blank
+28,-1,-1,blank
+29,-1,-1,blank
+30,-1,-1,blank
+31,-1,-1,blank
+32,-1,-1,blank
+33,-1,-1,blank
+34,4,1,Flight
+35,5,2,Unleash Latent Power 1
+36,5,3,Unleash Latent Power 2
+37,5,4,Unleash Latent Power 3
+38,6,2,Ki Control
+39,6,4,Dragon Dash Mastery
+40,7,1,High Spot
+41,7,2,Essence of Sight
+42,8,2,Warrior Lineage
+43,9,4,Halo
+44,9,4,Demon Seal
+45,10,1,Satisfying Blow
+46,11,1,Active Heart
+47,11,2,Indomitable Fighting Spirit
+48,12,1,Mind Breaker
+49,12,2,Gigantic Power
+50,13,1,Rising Fighting Spirit
+51,14,3,Secret Measures
+52,15,1,Proof of Friendship
+53,16,2,Dende's Healing Ability
+54,16,4,Eternal Life
+55,17,2,Tension Up
+56,17,3,High Tension
+57,18,1,Water Blessing
+58,19,3,Spiritual Control
+59,19,2,Lover of Justice
+60,19,2,Evil Ambitions
+61,20,2,Dragon Heart
+62,20,3,Dragon Beat
+63,21,2,Dragon Spirit
+64,21,1,Confidence
+65,22,1,Battle Control
+66,23,2,Kibito's Secret Art
+67,24,1,Persistent Threat
+68,24,2,Miracle Master
+69,25,1,Exquisite Skill
+70,26,1,Quick Return
+71,-1,-1,blank
+72,27,1,Unleash Ki
+73,27,2,Power of Rage
+74,27,3,Dragon Power
+75,28,1,Latent Energy!
+76,29,1,Fighting Spirit!
+77,30,1,Indignation!
+78,31,1,Serious!
+79,32,1,Hatred of Saiyans
+80,33,1,Rush Blast 1
+81,33,2,Rush Blast 2
+82,33,3,Rush Blast 3
+83,34,2,Guard Master
+84,35,1,Mirage
+85,36,1,Warrior's Will
+86,36,1,Evil Pride
+87,36,2,Perfect Guard
+88,37,3,Sparking Plus
+89,37,4,Style of the Strong
+90,37,4,Emperor's Aura
+91,38,3,Miracle Sparking
+92,39,1,Savior
+93,40,1,Light Body
+94,40,4,Power Body
+95,40,5,Ultimate Body
+96,41,3,Draconic Aura
+97,42,1,Master Strike
+98,42,1,Master Blast
+99,42,1,Master Throw
+100,43,1,Charged Attack
+101,43,1,Quick Fast Attack
+102,44,2,Dragon Break
+103,44,4,Dragon Crush
+104,45,2,Vanishing Break
+105,45,4,Vanishing Rush
+106,46,1,Combo Master
+107,47,1,Quick Charge
+108,48,1,Super Senses
+109,49,1,Broly's Ring
+110,50,1,Namek Power
+111,50,3,Earth Power
+112,50,2,Universal Power
+113,51,1,Aura Charge Blue
+114,51,1,Aura Charge Purple
+115,51,1,Aura Charge Yellow
+116,51,1,Aura Charge Red
+117,51,1,Aura Charge Green
+118,51,1,Aura Charge White
+119,51,1,Aura Charge Pink
+120,51,1,Aura Charge Violet
+121,51,1,Aura Charge Ultimate
+122,51,1,Aura Charge Ultimate 3
+123,51,1,Aura Charge Ultimate 4
+124,52,2,Master Roshi's Training
+125,52,4,King Kai's Training
+126,54,7,#18's Kiss
+127,55,7,#17's Scarf
+128,56,7,Medical Machine
+129,-1,-1,blank
+130,-1,-1,blank
+131,-1,-1,blank
+132,-1,-1,blank
+133,-1,-1,blank
+134,-1,-1,blank
+135,-1,-1,blank
+136,53,2,Launch's Support
